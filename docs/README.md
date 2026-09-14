@@ -7,6 +7,7 @@ Documentation for the IT Management System.
 
 - [Frontend Documentation](#frontend-documentation)
 - [Backend Documentation](#backend-documentation)
+- [Development Documentation](#development-documentation)
 - [Documentation Principles](#documentation-principles)
 
 </details>
@@ -42,6 +43,15 @@ Documentation for the IT Management System.
 | Database         | Database structure and data access               |
 | Testing          | Backend testing strategy and commands            |
 | Extending        | How to add and extend backend features           |
+
+
+---
+
+## Development Documentation
+
+| Document | Description |
+| --- | --- |
+| [Git Workflow](./development/git-workflow.md) | Branching strategy, commit conventions, and development workflow |
 
 ---
 
